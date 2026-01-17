@@ -137,7 +137,7 @@ If you were to test this function, what areas or scenarios would you focus on, a
 
 ### Code quality / design issues
 
--
+- the code is too simple and doesn't address edge cases, and incompatible types
 
 ## 2) Proposed Fixes / Improvements
 

@@ -45,6 +45,9 @@ See `correct_task1.py`
 
 If you were to test this function, what areas or scenarios would you focus on, and why?
 
+- The first thing i would focus on is checking how the functions deals with edge cases, like by providing incompatible input types and see how it deals with them.
+- the second would be to focus on the validity of the caculations performed by the function.
+
 ## 3) Explanation Review & Rewrite
 
 ### AI-generated explanation (original)
@@ -100,6 +103,8 @@ See `correct_task2.py`
 
 If you were to test this function, what areas or scenarios would you focus on, and why?
 
+- i would focus on providing different variations of valid and invalid emails to check whether the function can correctly identfy them.
+
 ## 3) Explanation Review & Rewrite
 
 ### AI-generated explanation (original)
@@ -108,7 +113,7 @@ If you were to test this function, what areas or scenarios would you focus on, a
 
 ### Issues in original explanation
 
-- the explanation cannot be used for the original code implementation, but it can be used for the improved implementaion
+- the explanation cannot be used for the original code implementation, but it can be used for the improved implementaion.
 
 ### Rewritten explanation
 
@@ -154,6 +159,8 @@ See `correct_task3.py`
 ### Testing Considerations
 
 If you were to test this function, what areas or scenarios would you focus on, and why?
+
+- i would focus on checking whether the calculations performed by the function are accurate or not.
 
 ## 3) Explanation Review & Rewrite
 
